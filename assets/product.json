@@ -1,0 +1,59 @@
+{
+    "Products": [
+        {
+            "id": 1,
+            "Name": "Ultra HD TV",
+            "Category": "Electronics",
+            "Price": 199.99,
+            "Stock": 50,
+            "Description": "55-inch Ultra HD Smart TV with HDR and voice control."
+        },
+        {
+            "id": 2,
+            "Name": "Wireless Headphones",
+            "Category": "Electronics",
+            "Price": 799.99,
+            "Stock": 150,
+            "Description": "Noise-cancelling wireless headphones with up to 20 hours of battery life."
+        },
+        {
+            "id": 3,
+            "Name": "Gaming Laptop",
+            "Category": "Computers",
+            "Price": 1299.99,
+            "Stock": 50,
+            "Description": "High-performance gaming laptop with 16GB RAM and 512GB SSD."
+        },
+        {
+            "id": 4,
+            "Name": "Gaming Laptop",
+            "Category": "Computers",
+            "Price": 1299.99,
+            "Stock": 50,
+            "Description": "High-performance gaming laptop with 16GB RAM and 512GB SSD."
+        },
+        {
+            "id": 5,
+            "Name": "Smartwatch",
+            "Category": "Wearables",
+            "Price": 249.99,
+            "Stock": 50,
+            "Description": "Fitness tracking smartwatch with heart rate monitor and GPS."
+        },
+        {
+            "id": 6,
+            "Name": "Electric Kettle",
+            "Category": " Home Appliances",
+            "Price": 39.99,
+            "Stock": 200,
+            "Description": " 1.7-liter electric kettle with auto shut-off and boil-dry protection."
+        },
+        {
+            "Name": "Coffee Maker",
+            "Category": " Home Appliances",
+            "Price": 79.99,
+            "Stock": 90,
+            "Description": "12-cup programmable coffee maker with brew strength control."
+        }
+    ]
+}
