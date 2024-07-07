@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:machine_test_adss/product/controller/product_controller.dart';
-import 'package:machine_test_adss/product/model/product_model.dart';
-import 'package:machine_test_adss/product_widget.dart';
+import 'package:machine_test_adss/product/widget/product_widget.dart';
 import 'package:provider/provider.dart';
 
 class CartScreen extends StatefulWidget {
